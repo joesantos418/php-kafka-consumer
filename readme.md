@@ -2,6 +2,7 @@
 
 An Apache Kafka consumer in PHP
 
+
 ## Install
 
 1. Install [librdkafka c library](https://github.com/edenhill/librdkafka)
